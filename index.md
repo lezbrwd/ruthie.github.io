@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-<a href="ruthie.github.io">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+<a href="lezbrwd/ruthie.github.io">
+  <img src="ruth10.jsp" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
