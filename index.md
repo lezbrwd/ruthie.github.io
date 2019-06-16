@@ -4,28 +4,11 @@ You can use the [editor on GitHub](https://github.com/lezbrwd/ruthie.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-<h2>HTML Image</h2>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-```
+<a href="default.asp">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+</a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
