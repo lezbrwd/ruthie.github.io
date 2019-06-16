@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-<a href="default.asp">
+<a href="ruthie.github.io">
   <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a>
 
